@@ -19,7 +19,7 @@ const { generateWAMessage, areJidsSameUser, proto } = require("@whiskeysockets/b
 
 const today = moment.tz("Asia/Jakarta").format("dddd, DD MMMM YYYY");
 
-global.db.data = JSON.parse(fs.readFileSync('../src/database.json'))
+global.db.data = JSON.parse(fs.readFileSync('./src/database.json'))
 if (global.db.data) global.db.data = {
     users: {},
     game: {},
