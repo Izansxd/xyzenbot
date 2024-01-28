@@ -24,7 +24,6 @@ if (global.db.data) global.db.data = {
     users: {},
     game: {},
     others: {},
-    marga: {},
     ...(global.db.data || {})
 }
 
