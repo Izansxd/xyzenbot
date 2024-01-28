@@ -595,7 +595,7 @@ module.exports = client = async (client, m, chatUpdate, store) => {
                     menu
                 } = require('../lib/menu/menu.js');
                 client.sendMessage(chat, {
-                    video: fs.readFileSync('../src/media/menu.mp4'),
+                    video: fs.readFileSync('./src/media/menu.mp4'),
                     caption: menu(m),
                     gifPlayback: true,
                     contextInfo: {
