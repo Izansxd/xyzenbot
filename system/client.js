@@ -962,9 +962,8 @@ module.exports = client = async (client, m, chatUpdate, store) => {
                 } else {    
                     for (let i = 0; i < data.result.media.length; i++) {
                         let caption = i == 0 ? data.result.caption : ''
-                        let ext = data.result.media[i].includes('.jpg') ? 'image' : 'video'
                         await client.sendMessage(chat, {
-                            [ext]: {
+                            image: {
                                 url: data.result.media[i]
                             },
                             caption,
