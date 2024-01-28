@@ -19,7 +19,7 @@ const { generateWAMessage, areJidsSameUser, proto } = require("@whiskeysockets/b
 
 const today = moment.tz("Asia/Jakarta").format("dddd, DD MMMM YYYY");
 
-global.db.data = JSON.parse(fs.readFileSync('./src/database.json'))
+global.db.data = JSON.parse(fs.readFileSync('../src/database.json'))
 if (global.db.data) global.db.data = {
     users: {},
     game: {},
@@ -334,7 +334,7 @@ module.exports = client = async (client, m, chatUpdate, store) => {
             case 'getsesi':
             case 'ambilsesi': {
                 if (!theCreator) return reply(mess.only.owner);
-                const a = await fs.readFileSync('./src/session/creds.json');
+                const a = await fs.readFileSync('../src/session/creds.json');
                 await client.sendMessage(chat, {
                     document: a,
                     mimetype: 'application/json',
@@ -346,14 +346,14 @@ module.exports = client = async (client, m, chatUpdate, store) => {
             break;
             case 'delsesi': {
                 if (!theCreator) return reply(mess.only.owner);
-                await fs.readdir("./src/session", async function(err, files) {
+                await fs.readdir("../src/session", async function(err, files) {
                     if (err) {
                         console.log(err)
                         return reply('Gagal Scan File')
                     }
                     let file = await files.filter(item => item.startsWith('pre-key') || item.startsWith('sender-key') || item.startsWith('session-') || item.startsWith('app-state'))
                     await file.forEach(function(a) {
-                        fs.unlinkSync(`./src/session/${a}`)
+                        fs.unlinkSync(`../src/session/${a}`)
                     })
                 })
                 await sleep(2000)
@@ -363,7 +363,7 @@ module.exports = client = async (client, m, chatUpdate, store) => {
             case 'deltmp': {
                 if (!theCreator) return reply(mess.only.owner);
 
-                const tmpDir = './src/tmp';
+                const tmpDir = '../src/tmp';
 
                 fs.readdir(tmpDir, async (err, files) => {
                     if (err) {
@@ -596,7 +596,7 @@ module.exports = client = async (client, m, chatUpdate, store) => {
                     menu
                 } = require('../lib/menu/menu.js');
                 client.sendMessage(chat, {
-                    video: fs.readFileSync('./src/media/menu.mp4'),
+                    video: fs.readFileSync('../src/media/menu.mp4'),
                     caption: menu(m),
                     gifPlayback: true,
                     contextInfo: {
