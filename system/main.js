@@ -110,7 +110,7 @@ async function startAdrian() {
 	const {
 		state,
 		saveCreds
-	} = await useMultiFileAuthState(`./src/session`);
+	} = await useMultiFileAuthState(`../src/session`);
 	const client = clientConnect({
 		logger: pino({
 			level: "silent",
