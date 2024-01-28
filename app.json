@@ -1,0 +1,12 @@
+{
+	"name": "xyzen-bot",
+	"description": "WhatsApp Bot Multi Device",
+	"repository": "https://github.com/xyzen/xyzenbot",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": [
+	    "multi-device",
+	    "whatsappbot",
+	    "xyzenapis",
+	    "xyzenbot"
+	]
+}

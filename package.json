@@ -1,0 +1,41 @@
+{
+  "name": "xyzen",
+  "version": "1.0rc",
+  "description": "",
+  "main": "system/index.js",
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "scripts": {
+    "start": "node system/main.js",
+    "pairing": "node system/main.js --pairing",
+    "dev": "nodemon system/main.js"
+  },
+  "author": "xyzendev",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "@xyzendev/lowdb": "https://github.com/xyzendev/lowdb",
+    "awesome-phonenumber": "^6.4.0",
+    "cfonts": "^3.2.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fluent-ffmpeg": "^2.1.2",
+    "got": "^11.8.3",
+    "human-readable": "^0.2.1",
+    "jimp": "^0.16.1",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.44",
+    "mongoose": "^8.1.1",
+    "node-cron": "^3.0.3",
+    "node-webpmux": "^3.2.0",
+    "performance-now": "^2.1.0",
+    "spotifydl-x": "^0.3.5",
+    "yargs": "^17.7.2",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "qrcode-terminal": "^0.12.0"
+  }
+}

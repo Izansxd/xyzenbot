@@ -1,0 +1,269 @@
+{
+  "users": {
+    "6289513081052@s.whatsapp.net": {
+      "_id": "8a35c3c8-b3ff-4d09-91ef-33a1e7cc5e3b",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6289656276034@s.whatsapp.net": {
+      "_id": "672495cb-f16e-4cee-98ea-d33e22d15753",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6289652285076@s.whatsapp.net": {
+      "_id": "12e700bc-c165-472b-8058-e7a70df22375",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283862943675@s.whatsapp.net": {
+      "_id": "0e2a1977-474b-4377-8c5e-9bb77931702b",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "628388767485@s.whatsapp.net": {
+      "_id": "012b06f3-a989-4b01-824e-357161f2431a",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283193693231@s.whatsapp.net": {
+      "_id": "16530f44-3974-48ef-ba1d-f31456d7c71e",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "62882009645268@s.whatsapp.net": {
+      "_id": "dfcf8513-d9fc-4902-a348-e1b5f860be7e",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6282349110873@s.whatsapp.net": {
+      "_id": "825533b9-8076-49bb-a82f-28dc1e23a0f9",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6288286185907@s.whatsapp.net": {
+      "_id": "c86642d5-b723-4f0c-85c3-e4cb6826fe8a",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283103692820@s.whatsapp.net": {
+      "_id": "2d78e0bc-9d57-4447-83f6-2330b9285051",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283838530788@s.whatsapp.net": {
+      "_id": "c5e8f061-e994-42ff-8dd3-8c61f9413eb7",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6282147003197@s.whatsapp.net": {
+      "_id": "9e93e5f5-07e1-4693-af6b-8d6a5e7976ca",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283187085983@s.whatsapp.net": {
+      "_id": "3c05b0b3-6611-47f4-8d75-8710de6e15b8",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6287843129946@s.whatsapp.net": {
+      "_id": "21764628-ad8d-4f7f-ab6e-0af9fe279421",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6281271234139@s.whatsapp.net": {
+      "_id": "6dd333f8-37da-450a-83f1-388c7f84fc49",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6287714375918@s.whatsapp.net": {
+      "_id": "b0d3582e-e6ec-4701-aee6-a1d0c733d129",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6281282342154@s.whatsapp.net": {
+      "_id": "fd49f169-b931-42ab-9df6-5325349a5da0",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283153132572@s.whatsapp.net": {
+      "_id": "17ffc05f-afe8-41f1-b3f3-cf8b4d22654d",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283839947034@s.whatsapp.net": {
+      "_id": "c7c27c7c-7004-4f76-ae67-527420873229",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283847389642@s.whatsapp.net": {
+      "_id": "ef5b2c5b-27f5-4345-8ea8-ddf7282d3b83",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "628978588574@s.whatsapp.net": {
+      "_id": "c742b1a1-28ff-407b-8ced-887dc39867fe",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "62859185953185@s.whatsapp.net": {
+      "_id": "d4084013-55a5-450b-957b-6561a98143b5",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "62881026097315@s.whatsapp.net": {
+      "_id": "98b1c0c8-816b-4e56-95d7-31f8efde4841",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6287886638503@s.whatsapp.net": {
+      "_id": "1424fc83-e7ac-4f88-b4d8-7a7f1821d0b2",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283897550677@s.whatsapp.net": {
+      "_id": "c1433302-96c1-451b-89a2-6b55f4cbb576",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6285794582715@s.whatsapp.net": {
+      "_id": "8c23fbdd-2c9b-4c8a-8143-c5514d79c5df",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283856528977@s.whatsapp.net": {
+      "_id": "15966cf1-89ed-4c69-ad98-d486133056a9",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6281222944878@s.whatsapp.net": {
+      "_id": "47e850a6-de46-4212-ab42-4c3d137600ff",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283143847476@s.whatsapp.net": {
+      "_id": "c5ae6129-e162-4cf3-957e-826f0cc52496",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6281775062955@s.whatsapp.net": {
+      "_id": "3e931f55-0da2-4446-a95b-a82c56a19686",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6288247214613@s.whatsapp.net": {
+      "_id": "21d59413-562f-4490-a1b7-0e71a047a41b",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6288233277425@s.whatsapp.net": {
+      "_id": "3fd94205-e984-4021-8501-3f9b8493c02b",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6285758142315@s.whatsapp.net": {
+      "_id": "83177b90-0bbe-4b61-9678-f3e0c736f3ae",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6282158944940@s.whatsapp.net": {
+      "_id": "36a32861-e384-4e36-9d21-58e0139f50ad",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6281775497109@s.whatsapp.net": {
+      "_id": "6ab3c4b4-01ee-4b96-b406-2614df8c4cdf",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6288299506992@s.whatsapp.net": {
+      "_id": "acae1999-2a33-4c62-b115-b16a32d794c0",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283180469127@s.whatsapp.net": {
+      "_id": "ac81fcbe-5247-454a-bfb6-d49e95eacf8c",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283873281091@s.whatsapp.net": {
+      "_id": "98c1d54f-8d17-46ad-a8dd-eb5feb6d6f4d",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6283848054225@s.whatsapp.net": {
+      "_id": "1e33ea01-71bf-40bf-a417-de48c345aca8",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    },
+    "6288226501710@s.whatsapp.net": {
+      "_id": "1f446cb1-4def-450a-a589-a65b3d152707",
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 20
+    }
+  },
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": [],
+    "bendera": [],
+    "bendera2": [],
+    "kabupaten": [],
+    "kimia": [],
+    "asahotak": [],
+    "siapakahaku": [],
+    "susunkata": [],
+    "tekateki": []
+  },
+  "others": {
+    "vote": [],
+    "hitTotal": 0
+  },
+  "marga": {}
+}
