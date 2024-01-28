@@ -953,6 +953,29 @@ module.exports = client = async (client, m, chatUpdate, store) => {
                 }
             }
             break;
+            case 'igdlf':
+            case 'xyzenf': {
+                if (!args[0]) return reply(mess.need.url);
+                const data = await lolAPIs(`/api/instagram2?apikey=${api.lol}&url=${q}`)
+                if (data.status === 500) {
+                    return reply(mess.error.url)
+                } else {    
+                    for (let i = 0; i < data.result.media.length; i++) {
+                        let caption = i == 0 ? data.result.caption : ''
+                        let ext = data.result.media[i].includes('.jpg') ? 'image' : 'video'
+                        await client.sendMessage(chat, {
+                            [ext]: {
+                                url: data.result.media[i]
+                            },
+                            caption,
+                        }, {
+                            quoted: m
+                        })
+                        await sleep(1000)
+                    }
+                }
+            }
+            break;
             case 'ytmp3': {
                 if (!isPremium) return reply(mess.only.prem);
                 if (!q) return reply(mess.need.url);
