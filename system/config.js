@@ -73,7 +73,7 @@ global.mess = {
     * IMAGE & THUMBNAIL & URL
 */
 global.thumbailUrl = "https://telegra.ph/file/2c23f25c021c440a1db56.jpg";
-global.thumb = fs.readFileSync('../src/media/thumbnail.png');
+global.thumb = fs.readFileSync('./src/media/thumbnail.png');
 global.urlgc = "https://chat.whatsapp.com/JANxc87ZwSoDkrvo8ltLz7";
 global.url = "https://api.xyzen.tech"
 
