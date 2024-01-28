@@ -13,7 +13,7 @@ global.premium = ["6289513081052", "6283820726489", "6285852460073"].map((v) => 
     * SETTINGS BOT
 */
 global.options = {
-    read: false,
+    read: true,
     public: true,
     readsw: true,
     block212: true,
