@@ -23,7 +23,7 @@ global.typemenu = 1
 global.packname = "NAISA - MULTI DEVICE"
 global.author = "083838530788"
 global.footer = 'Created By Adrian'
-global.hostAPI = "https://xyzenapis-dfa89fb8820c.herokuapp.com"
+global.hostAPI = "https://api.xyzen.tech"
 
 /*
     * REQUIRED APIKEY 
