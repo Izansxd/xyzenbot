@@ -7,7 +7,7 @@ const chalk = require("chalk");
 global.ownernumber = "6289513081052"; // Owner Utama
 global.namebot = "NAISA - MULTI DEVICE" // Name Bot
 global.owner = ["6289513081052"].map((v) => v.toString()); // Owner Lain
-global.premium = ["6289513081052", "6283820726489", "6285852460073"].map((v) => v.toString()); // Premium
+global.premium = ["6289513081052", "6283820726489", "6285852460073", "6283152328672"].map((v) => v.toString()); // Premium
 
 /*
     * SETTINGS BOT
