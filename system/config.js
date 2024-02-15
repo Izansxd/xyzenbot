@@ -30,7 +30,7 @@ global.hostAPI = "https://api.xyzen.tech"
 */
 
 global.api = {
-  lol: "YoshCasaster",
+  lol: "-",
   xyz: "xyzen"
 };
 
