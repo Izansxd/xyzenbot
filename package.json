@@ -1,5 +1,5 @@
 {
-  "name": "xyzen",
+  "name": "zeebot",
   "version": "1.0rc",
   "description": "",
   "main": "system/index.js",
@@ -12,7 +12,7 @@
     "pairing": "node system/main.js --pairing",
     "dev": "nodemon system/main.js"
   },
-  "author": "xyzendev",
+  "author": "izansdev",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
