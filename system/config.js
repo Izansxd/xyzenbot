@@ -4,10 +4,10 @@ const chalk = require("chalk");
 /* 
     * Settings Creator And Premium Users Default
 */
-global.ownernumber = "6289513081052"; // Owner Utama
-global.namebot = "NAISA - MULTI DEVICE" // Name Bot
-global.owner = ["6289513081052"].map((v) => v.toString()); // Owner Lain
-global.premium = ["6289513081052", "6283820726489", "6285852460073", "6283152328672"].map((v) => v.toString()); // Premium
+global.ownernumber = "6282298627146"; // Owner Utama
+global.namebot = "ZEE - MULTI DEVICE" // Name Bot
+global.owner = ["6282298627146"].map((v) => v.toString()); // Owner Lain
+global.premium = ["6282298627146", "6282298627146", "6282298627146", "6282298627146"].map((v) => v.toString()); // Premium
 
 /*
     * SETTINGS BOT
@@ -20,9 +20,9 @@ global.options = {
     onlyindo: true
 }
 global.typemenu = 1
-global.packname = "NAISA - MULTI DEVICE"
-global.author = "083838530788"
-global.footer = 'Created By Adrian'
+global.packname = "ZEE - MULTI DEVICE"
+global.author = "082298627146"
+global.footer = 'Created By Izans'
 global.hostAPI = "https://api.xyzen.tech"
 
 /*
@@ -72,9 +72,9 @@ global.mess = {
 /*
     * IMAGE & THUMBNAIL & URL
 */
-global.thumbailUrl = "https://telegra.ph/file/2c23f25c021c440a1db56.jpg";
+global.thumbailUrl = "https://telegra.ph/file/a3705dcdeb526d539cbaa.jpg";
 global.thumb = fs.readFileSync('./src/media/thumbnail.png');
-global.urlgc = "https://chat.whatsapp.com/JANxc87ZwSoDkrvo8ltLz7";
+global.urlgc = "https://chat.whatsapp.com/BQdnlFfs5cXIA1pxWY1cSH";
 global.url = "https://api.xyzen.tech"
 
 let file = require.resolve(__filename);
